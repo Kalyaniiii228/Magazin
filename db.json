@@ -1,4 +1,11 @@
 {
   "users":[
+    {
+    "id":1,
+    "name":"Pavel",
+    "surname":"Fkplan",
+    "photo_url":"https://avatars.githubusercontent.com/u/152779662?v=4",
+    "balance":4500
+  }
   ]
 }
