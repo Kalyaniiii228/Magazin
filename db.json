@@ -1,6 +1,7 @@
 {
   "users":[
     {
+<<<<<<< HEAD
       "id":1,
       "name":"Polina",
       "surname":"Kebets",
@@ -8,5 +9,13 @@
       "balance": 0
     }
     
+=======
+    "id":1,
+    "name":"Pavel",
+    "surname":"Fkplan",
+    "photo_url":"https://avatars.githubusercontent.com/u/152779662?v=4",
+    "balance":4500
+  }
+>>>>>>> 8055f2c85e2ad7cc5edbcb18790cec64e2f25843
   ]
 }
